@@ -12,5 +12,6 @@ The TAG is cononected through USB o the comoputer and is read by the Processing 
 
 ## To run: 
 
-1- Connect the TAG to the USB port and run the Processing Sketch. 
-2- Run the MaxPatch
+1 - Connect the TAG to the USB port and run the Processing Sketch. 
+
+2 - Run the MaxPatch
